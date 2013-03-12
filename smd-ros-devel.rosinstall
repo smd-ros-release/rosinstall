@@ -1,0 +1,6 @@
+- tar: {local-name: control_panel, uri: 'https://github.com/smd-ros-release/control_panel-release/archive/release/control_panel/0.4.3.tar.gz',
+    version: control_panel-release-release-control_panel-0.4.3}
+- tar: {local-name: smd_ardrone2, uri: 'https://github.com/smd-ros-release/smd_ardrone2-release/archive/release/smd_ardrone2/0.1.0.tar.gz',
+    version: smd_ardrone2-release-release-smd_ardrone2-0.1.0}
+- tar: {local-name: yei_tss_usb, uri: 'https://github.com/smd-ros-release/yei_tss_usb-release/archive/release/yei_tss_usb/0.0.2.tar.gz',
+    version: yei_tss_usb-release-release-yei_tss_usb-0.0.2}

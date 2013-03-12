@@ -1,0 +1,2 @@
+- tar: {local-name: pololu_smc_driver, uri: 'https://github.com/smd-ros-release/pololu_smc_driver-release/archive/release/pololu_smc_driver/0.1.3.tar.gz',
+    version: pololu_smc_driver-release-release-pololu_smc_driver-0.1.3}
