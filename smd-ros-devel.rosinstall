@@ -4,3 +4,5 @@
     version: smd_ardrone2-release-release-smd_ardrone2-0.1.2}
 - tar: {local-name: yei_tss_usb, uri: 'https://github.com/smd-ros-release/yei_tss_usb-release/archive/release/yei_tss_usb/0.0.4.tar.gz',
     version: yei_tss_usb-release-release-yei_tss_usb-0.0.4}
+- tar: {local-name: smd_wifi_monitor, uri: 'https://github.com/smd-ros-release/smd_wifi_monitor-release/archive/release/smd_wifi_monitor/0.0.2.tar.gz',
+    version: smd_wifi_monitor-release-release-smd_wifi_monitor-0.0.2}
